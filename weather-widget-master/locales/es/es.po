@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: node-gettext\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "settings"
+msgstr "Configuración de Tiempo"
+
+msgid "save"
+msgstr "Guardar"
+
+msgid "cancel"
+msgstr "Cancelar"
+
+msgid "help"
+msgstr "Ayuda"
+
+msgid "layout##label"
+msgstr "Diseño"
+
+msgid "layout##custom"
+msgstr "Personalizar"
+
+msgid "layout##current"
+msgstr "Tiempo Actual"
+
+msgid "layout##three-day"
+msgstr "Pronóstico de 3 días"
+
+msgid "layout##current-and-three-day"
+msgstr "Tiempo Actual y Pronóstico de 3 Días"
+
+msgid "current-temp-font##font"
+msgstr "Temperatura Actual - Tipo de Letra"
+
+msgid "current-temp-font##font-url"
+msgstr "Temperatura Actual - Tipo de letra URL"
+
+msgid "current-temp-font##font-size"
+msgstr "Temperatura Actual - Tamaño de Letra"
+
+msgid "current-temp-font##modal-title"
+msgstr "Tipo de Letras"
+
+msgid "current-temp-font##font-variants"
+msgstr "Estilos de Letras"
+
+msgid "current-temp-font##bold"
+msgstr "Negrita"
+
+msgid "current-temp-font##italic"
+msgstr "Itálico"
+
+msgid "current-temp-font##color"
+msgstr "Tiempo Actual - color"
+
+msgid "current-temp-font##text"
+msgstr "Tiempo Actual - Ejemplo de Texto"
+
+msgid "forecast-temp-font##font"
+msgstr "Pronóstico de Temperatura - Tipo de Letra"
+
+msgid "forecast-temp-font##font-url"
+msgstr "Pronóstico de Temperatura - Tipo de Letra UR"
+
+msgid "forecast-temp-font##font-size"
+msgstr "Pronóstico de Temperatura - Tamaño letra"
+
+msgid "forecast-temp-font##modal-title"
+msgstr "Tipo de Letras"
+
+msgid "forecast-temp-font##font-variants"
+msgstr "Estilos de Letras"
+
+msgid "forecast-temp-font##bold"
+msgstr "Negrita"
+
+msgid "forecast-temp-font##italic"
+msgstr "Itálico"
+
+msgid "forecast-temp-font##color"
+msgstr "Pronóstico de Temperatura - Color"
+
+msgid "forecast-temp-font##text"
+msgstr "Pronóstico de Temperatura - Ejemplo de Texto"
+
+msgid "forecast-day-font##font"
+msgstr "Pronóstico del Día - Tipo de Letra"
+
+msgid "forecast-day-font##font-url"
+msgstr "Pronóstico del Día - Tipo de Letra URL"
+
+msgid "forecast-day-font##font-size"
+msgstr "Pronóstico del Día - Tamaño de letra"
+
+msgid "forecast-day-font##modal-title"
+msgstr "Tipo de Letras"
+
+msgid "forecast-day-font##font-variants"
+msgstr "Estilos de Letras"
+
+msgid "forecast-day-font##bold"
+msgstr "Negrita"
+
+msgid "forecast-day-font##italic"
+msgstr "Itálico"
+
+msgid "forecast-day-font##color"
+msgstr "Pronóstico del Día - Color"
+
+msgid "forecast-day-font##text"
+msgstr "Pronóstico del día - Ejemplo del Texto"
+
+msgid "layout-url"
+msgstr "Diseño URL"
+
+msgid "address##label"
+msgstr "Dirección"
+
+msgid "address##geolocation"
+msgstr "Geolocalización"
+
+msgid "address##display"
+msgstr "Dirección de pantalla"
+
+msgid "address##custom"
+msgstr "Dirección Personalizada"
+
+msgid "custom-address"
+msgstr "Tu Dirección Personalizada"
+
+msgid "address-font##font"
+msgstr "Tipo de letra"
+
+msgid "address-font##font-url"
+msgstr "Tipo de letra URL"
+
+msgid "address-font##font-size"
+msgstr "Tipo de letra - tamaño"
+
+msgid "address-font##modal-title"
+msgstr "Tipo de Letras"
+
+msgid "address-font##font-variants"
+msgstr "Estilos de Letras"
+
+msgid "address-font##bold"
+msgstr "Negrita"
+
+msgid "address-font##italic"
+msgstr "Itálico"
+
+msgid "address-font##color"
+msgstr "Color"
+
+msgid "address-font##text"
+msgstr "Dirección - Ejemplo de Texto"
+
+msgid "description##label"
+msgstr "Dirección - Descripción"
+
+msgid "description##none"
+msgstr "Ninguno"
+
+msgid "description##service"
+msgstr "Servicio de"
+
+msgid "description##custom"
+msgstr "Descripción Personalizada"
+
+msgid "custom-description"
+msgstr "Tu Descripción Personalizada"
+
+msgid "show-humidity"
+msgstr "Mostrar Humedad y Viento"
+
+msgid "wind-speed##label"
+msgstr "Velocidad de Viento"
+
+msgid "wind-speed##kph"
+msgstr "kph"
+
+msgid "wind-speed##mph"
+msgstr "mph"
+
+msgid "humidity-font##font"
+msgstr "Tipo de letra"
+
+msgid "humidity-font##font-url"
+msgstr "Tipo de letra URL"
+
+msgid "humidity-font##font-size"
+msgstr "Tipo de letra - tamaño"
+
+msgid "humidity-font##modal-title"
+msgstr "Tipo de Letras"
+
+msgid "humidity-font##font-variants"
+msgstr "Estilos de Letras"
+
+msgid "humidity-font##bold"
+msgstr "Negrita"
+
+msgid "humidity-font##italic"
+msgstr "Itálico"
+
+msgid "humidity-font##color"
+msgstr "Color"
+
+msgid "humidity-font##text"
+msgstr "Humedad y Viento - Ejemplo de Texto"
+
+msgid "unit##label"
+msgstr "Unidad"
+
+msgid "unit##celsius"
+msgstr "Celsius"
+
+msgid "unit##fahrenheit"
+msgstr "Fahrenheit"
+
+msgid "background-color##color"
+msgstr "Color de Fondo"
+
+msgid "terms"
+msgstr "Reconozco que actualmente no hay cargo por este Widget, pero en una fecha aún no determinada, me costará $2 por pantalla, por mes. En ese momento voy a tener 30 días para decidir si quiero seguir usando este Widget."
+
+msgid "monday"
+msgstr "lunes"
+
+msgid "tuesday"
+msgstr "martes"
+
+msgid "wednesday"
+msgstr "miércoles"
+
+msgid "thursday"
+msgstr "jueves"
+
+msgid "friday"
+msgstr "viernes"
+
+msgid "saturday"
+msgstr "sábado"
+
+msgid "sunday"
+msgstr "domingo"
+
+msgid "humidity"
+msgstr "Humedad"
+
+msgid "wind"
+msgstr "Viento"
+
+msgid "at"
+msgstr "en"
+
+msgid "mph"
+msgstr "mph"
+
+msgid "kph"
+msgstr "kph"
+
+msgid "N"
+msgstr "N"
+
+msgid "S"
+msgstr "S"
+
+msgid "E"
+msgstr "E"
+
+msgid "W"
+msgstr "W"
+
+msgid "NE"
+msgstr "NE"
+
+msgid "NW"
+msgstr "NW"
+
+msgid "SE"
+msgstr "SE"
+
+msgid "SW"
+msgstr "SW"

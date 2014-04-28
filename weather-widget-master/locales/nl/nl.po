@@ -1,0 +1,299 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: node-gettext\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Theo Kooijmans <tkooijmans@universaldv.nl>\n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 1.6.4\n"
+
+msgid "settings"
+msgstr "Weer instellingen"
+
+msgid "save"
+msgstr "Opslaan"
+
+msgid "cancel"
+msgstr "Annuleren"
+
+msgid "help"
+msgstr "Help"
+
+msgid "layout##label"
+msgstr "Layout"
+
+msgid "layout##custom"
+msgstr "Aangepast"
+
+msgid "layout##current"
+msgstr "Huidig weer"
+
+msgid "layout##three-day"
+msgstr "3 daagse voorspelling"
+
+msgid "layout##current-and-three-day"
+msgstr "Huidig weer en 3 daagse voorspelling"
+
+msgid "current-temp-font##font"
+msgstr "huidige temperatuur font"
+
+msgid "current-temp-font##font-url"
+msgstr "huidige temperatuur font URL"
+
+msgid "current-temp-font##font-size"
+msgstr "huidige temperatuur font grootte"
+
+msgid "current-temp-font##modal-title"
+msgstr "Fonts"
+
+msgid "current-temp-font##font-variants"
+msgstr "Font Variaties"
+
+msgid "current-temp-font##bold"
+msgstr "Bold"
+
+msgid "current-temp-font##italic"
+msgstr "Italic"
+
+msgid "current-temp-font##color"
+msgstr "Huidige temperatuur kleur"
+
+msgid "current-temp-font##text"
+msgstr "Huidige temperatuur voorbeeld tekst"
+
+msgid "forecast-temp-font##font"
+msgstr "Voorspelling temperatuur Font"
+
+msgid "forecast-temp-font##font-url"
+msgstr "Voorspelling temperatuur Font URL"
+
+msgid "forecast-temp-font##font-size"
+msgstr "Voorspelling temperatuur Font grootte"
+
+msgid "forecast-temp-font##modal-title"
+msgstr "Fonts"
+
+msgid "forecast-temp-font##font-variants"
+msgstr "Font Variaties"
+
+msgid "forecast-temp-font##bold"
+msgstr "Bold"
+
+msgid "forecast-temp-font##italic"
+msgstr "Italic"
+
+msgid "forecast-temp-font##color"
+msgstr "Forecast Temperature ColorVoorspelling temperatuur kleur"
+
+msgid "forecast-temp-font##text"
+msgstr "Voorspelling temperatuur voorbeeld tekst"
+
+msgid "forecast-day-font##font"
+msgstr "Voorspelling dag Font"
+
+msgid "forecast-day-font##font-url"
+msgstr "Voorspelling dag Font URL"
+
+msgid "forecast-day-font##font-size"
+msgstr "Voorspelling dag Font grootte"
+
+msgid "forecast-day-font##modal-title"
+msgstr "Fonts"
+
+msgid "forecast-day-font##font-variants"
+msgstr "Font Variaties"
+
+msgid "forecast-day-font##bold"
+msgstr "Bold"
+
+msgid "forecast-day-font##italic"
+msgstr "Italic"
+
+msgid "forecast-day-font##color"
+msgstr "Voorspelling dag kleur"
+
+msgid "forecast-day-font##text"
+msgstr "Voorspelling dag voorbeeld tekst"
+
+msgid "layout-url"
+msgstr "Layout URL"
+
+msgid "address##label"
+msgstr "Adres"
+
+msgid "address##geolocation"
+msgstr "Geografische locatie"
+
+msgid "address##display"
+msgstr "Display adres"
+
+msgid "address##custom"
+msgstr "Aangepast adres"
+
+msgid "custom-address"
+msgstr "Uw aangepast adres"
+
+msgid "address-font##font"
+msgstr "Font"
+
+msgid "address-font##font-url"
+msgstr "Font URL"
+
+msgid "address-font##font-size"
+msgstr "Font grootte"
+
+msgid "address-font##modal-title"
+msgstr "Fonts"
+
+msgid "address-font##font-variants"
+msgstr "Font Variaties"
+
+msgid "address-font##bold"
+msgstr "Bold"
+
+msgid "address-font##italic"
+msgstr "Italic"
+
+msgid "address-font##color"
+msgstr "Color"
+
+msgid "address-font##text"
+msgstr "Adres voorbeeld tekst"
+
+msgid "description##label"
+msgstr "Adres omschrijving"
+
+msgid "description##none"
+msgstr "Geen"
+
+msgid "description##service"
+msgstr "Van Service"
+
+msgid "description##custom"
+msgstr "Aangepaste omschrijving"
+
+msgid "custom-description"
+msgstr "Uw aangepaste omschrijving"
+
+msgid "show-humidity"
+msgstr "Toon vochtigheid en wind"
+
+msgid "wind-speed##label"
+msgstr "Wind snelheid"
+
+msgid "wind-speed##kph"
+msgstr "kph"
+
+msgid "wind-speed##mph"
+msgstr "mph"
+
+msgid "humidity-font##font"
+msgstr "Font"
+
+msgid "humidity-font##font-url"
+msgstr "Font URL"
+
+msgid "humidity-font##font-size"
+msgstr "Font grootte"
+
+msgid "humidity-font##modal-title"
+msgstr "Fonts"
+
+msgid "humidity-font##font-variants"
+msgstr "Font Variaties"
+
+msgid "humidity-font##bold"
+msgstr "Bold"
+
+msgid "humidity-font##italic"
+msgstr "Italic"
+
+msgid "humidity-font##color"
+msgstr "Kleur"
+
+msgid "humidity-font##text"
+msgstr "Vochtigheid en wind voorbeeld tekst"
+
+msgid "unit##label"
+msgstr "Eenheid"
+
+msgid "unit##celsius"
+msgstr "Celsius"
+
+msgid "unit##fahrenheit"
+msgstr "Fahrenheit"
+
+msgid "background-color##color"
+msgstr "Achtergrond kleur"
+
+msgid "terms"
+msgstr ""
+"Ik erken dat er momenteel geen kosten voor deze Widget, maar op een datum "
+"die nog moet worden bepaald, het kost $ 2 dollar per scherm, per maand. Op "
+"dat moment zal ik 30 dagen om te beslissen of ik wil blijven gebruiken deze "
+"Widget."
+
+msgid "monday"
+msgstr "Maandag"
+
+msgid "tuesday"
+msgstr "Dinsdag"
+
+msgid "wednesday"
+msgstr "Woensdag"
+
+msgid "thursday"
+msgstr "Donderdag"
+
+msgid "friday"
+msgstr "Vrijdag"
+
+msgid "saturday"
+msgstr "Zaterdag"
+
+msgid "sunday"
+msgstr "Zondag"
+
+msgid "humidity"
+msgstr "Luchtvochtigheid"
+
+msgid "wind"
+msgstr "Wind"
+
+msgid "at"
+msgstr "om"
+
+msgid "mph"
+msgstr "mph"
+
+msgid "kph"
+msgstr "kph"
+
+msgid "N"
+msgstr "N"
+
+msgid "S"
+msgstr "Z"
+
+msgid "E"
+msgstr "O"
+
+msgid "W"
+msgstr "W"
+
+msgid "NE"
+msgstr "NO"
+
+msgid "NW"
+msgstr "NW"
+
+msgid "SE"
+msgstr "ZO"
+
+msgid "SW"
+msgstr "ZW"

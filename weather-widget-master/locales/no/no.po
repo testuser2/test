@@ -1,0 +1,297 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: node-gettext\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.5.3\n"
+
+msgid "settings"
+msgstr "Væroppsett"
+
+msgid "save"
+msgstr "Lagre"
+
+msgid "cancel"
+msgstr "Avbryt"
+
+msgid "help"
+msgstr "Hjelp"
+
+msgid "layout##label"
+msgstr "Layout"
+
+msgid "layout##custom"
+msgstr "Tilpasset"
+
+msgid "layout##current"
+msgstr "Været nå"
+
+msgid "layout##three-day"
+msgstr "3 dagers varsel"
+
+msgid "layout##current-and-three-day"
+msgstr "Været nå og 3 dagers varsel"
+
+msgid "current-temp-font##font"
+msgstr "Temperatur font"
+
+msgid "current-temp-font##font-url"
+msgstr "Temperatur Font URL"
+
+msgid "current-temp-font##font-size"
+msgstr "Temperature Font Størrelse"
+
+msgid "current-temp-font##modal-title"
+msgstr "Fonter"
+
+msgid "current-temp-font##font-variants"
+msgstr "Font Varianter"
+
+msgid "current-temp-font##bold"
+msgstr "Bold"
+
+msgid "current-temp-font##italic"
+msgstr "Italic"
+
+msgid "current-temp-font##color"
+msgstr "Temperature Farge"
+
+msgid "current-temp-font##text"
+msgstr "Temperatur Test Tekst"
+
+msgid "forecast-temp-font##font"
+msgstr "Varsel Temperatur Font"
+
+msgid "forecast-temp-font##font-url"
+msgstr "Varsel Temperatur Font URL"
+
+msgid "forecast-temp-font##font-size"
+msgstr "Varsel Temperatur Font Størrelse"
+
+msgid "forecast-temp-font##modal-title"
+msgstr "Fonter"
+
+msgid "forecast-temp-font##font-variants"
+msgstr "Font Varianter"
+
+msgid "forecast-temp-font##bold"
+msgstr "Bold"
+
+msgid "forecast-temp-font##italic"
+msgstr "Italic"
+
+msgid "forecast-temp-font##color"
+msgstr "Varsel Temperatur Farge"
+
+msgid "forecast-temp-font##text"
+msgstr "Varsel Temperature Test Tekst"
+
+msgid "forecast-day-font##font"
+msgstr "Varsel Dag Font"
+
+msgid "forecast-day-font##font-url"
+msgstr "Varsel Dag Font URL"
+
+msgid "forecast-day-font##font-size"
+msgstr "Varsel Dag Font Størrelse"
+
+msgid "forecast-day-font##modal-title"
+msgstr "Fonter"
+
+msgid "forecast-day-font##font-variants"
+msgstr "Font Varianter"
+
+msgid "forecast-day-font##bold"
+msgstr "Bold"
+
+msgid "forecast-day-font##italic"
+msgstr "Italic"
+
+msgid "forecast-day-font##color"
+msgstr "Varsel Dag Farge"
+
+msgid "forecast-day-font##text"
+msgstr "Varsel Day test tekst"
+
+msgid "layout-url"
+msgstr "Layout URL"
+
+msgid "address##label"
+msgstr "Adresse"
+
+msgid "address##geolocation"
+msgstr "Geolokasjon"
+
+msgid "address##display"
+msgstr "Display Adresse"
+
+msgid "address##custom"
+msgstr "Annen Adresse"
+
+msgid "custom-address"
+msgstr "Din Valgte Adresse"
+
+msgid "address-font##font"
+msgstr "Font"
+
+msgid "address-font##font-url"
+msgstr "Font URL"
+
+msgid "address-font##font-size"
+msgstr "Font Størrelse"
+
+msgid "address-font##modal-title"
+msgstr "Fonter"
+
+msgid "address-font##font-variants"
+msgstr "Font Varianter"
+
+msgid "address-font##bold"
+msgstr "Bold"
+
+msgid "address-font##italic"
+msgstr "Italic"
+
+msgid "address-font##color"
+msgstr "Farge"
+
+msgid "address-font##text"
+msgstr "Adresse Test Tekst"
+
+msgid "description##label"
+msgstr "Adresse Beskrivelse"
+
+msgid "description##none"
+msgstr "Ingen"
+
+msgid "description##service"
+msgstr "Fra Service"
+
+msgid "description##custom"
+msgstr "Egen Beskrivelse"
+
+msgid "custom-description"
+msgstr "Din Egen Beskrivelse"
+
+msgid "show-humidity"
+msgstr "Vis Luftfuktighet og Vind"
+
+msgid "wind-speed##label"
+msgstr "Vindhastighet"
+
+msgid "wind-speed##kph"
+msgstr "kmt"
+
+msgid "wind-speed##mph"
+msgstr "mph"
+
+msgid "humidity-font##font"
+msgstr "Font"
+
+msgid "humidity-font##font-url"
+msgstr "Font URL"
+
+msgid "humidity-font##font-size"
+msgstr "Font Størrelse"
+
+msgid "humidity-font##modal-title"
+msgstr "Fonter"
+
+msgid "humidity-font##font-variants"
+msgstr "Font Variasjoner"
+
+msgid "humidity-font##bold"
+msgstr "Bold"
+
+msgid "humidity-font##italic"
+msgstr "Italic"
+
+msgid "humidity-font##color"
+msgstr "Farge"
+
+msgid "humidity-font##text"
+msgstr "Luftfuktighet og Vind Test Tekst "
+
+msgid "unit##label"
+msgstr "Enhet"
+
+msgid "unit##celsius"
+msgstr "Celsius"
+
+msgid "unit##fahrenheit"
+msgstr "Fahrenheit"
+
+msgid "background-color##color"
+msgstr "Bakgrunnsfarge"
+
+msgid "terms"
+msgstr ""
+"Jeg erkjenner at denne widgeten nå er gratis å bruke, men på en dato som har "
+"ennå ikke bestemt, vil det koste ca $ 2 per Display i  måneden. Jeg vil da "
+"ha 30 dager på å bestemme om jeg ønsker å fortsette å bruke denne widgeten."
+
+msgid "monday"
+msgstr "Mandag"
+
+msgid "tuesday"
+msgstr "Tirsdag"
+
+msgid "wednesday"
+msgstr "Onsdag"
+
+msgid "thursday"
+msgstr "Torsdag"
+
+msgid "friday"
+msgstr "Fredag"
+
+msgid "saturday"
+msgstr "Lørdag"
+
+msgid "sunday"
+msgstr "Søndag"
+
+msgid "humidity"
+msgstr "Luftfuktighet"
+
+msgid "wind"
+msgstr "Vind"
+
+msgid "at"
+msgstr "på"
+
+msgid "mph"
+msgstr "mph"
+
+msgid "kph"
+msgstr "kmt"
+
+msgid "N"
+msgstr "N"
+
+msgid "S"
+msgstr "S"
+
+msgid "E"
+msgstr "Ø"
+
+msgid "W"
+msgstr "V"
+
+msgid "NE"
+msgstr "NØ"
+
+msgid "NW"
+msgstr "NV"
+
+msgid "SE"
+msgstr "SØ"
+
+msgid "SW"
+msgstr "SV"

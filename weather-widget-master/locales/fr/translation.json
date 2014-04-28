@@ -1,0 +1,118 @@
+{
+    "settings": "Paramètres météo",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "help": "Aide",
+    "layout": {
+        "label": "Disposition",
+        "custom": "Personnalisé",
+        "current": "Météo actuelle",
+        "three-day": "Prévision 3 jours",
+        "current-and-three-day": "Météo actuelle et prévision 3 jours"
+    },
+    "current-temp-font": {
+        "font": "Police de la température actuelle",
+        "font-url": "URL de la police de la température actuelle",
+        "font-size": "Taille de la police de la température actuelle",
+        "modal-title": "Polices",
+        "font-variants": "Variations de police",
+        "bold": "Gras",
+        "italic": "Italique",
+        "color": "Couleur de la température actuelle",
+        "text": "Exemple de texte de température actuelle"
+    },
+    "forecast-temp-font": {
+        "font": "Police de la température prévue",
+        "font-url": "URL de la police de la température prévue",
+        "font-size": "Taille de la police de la température prévue",
+        "modal-title": "Polices",
+        "font-variants": "Variantes de police",
+        "bold": "Gras",
+        "italic": "Italique",
+        "color": "Couleur",
+        "text": "Exemple de texte de la température prévue"
+    },
+    "forecast-day-font": {
+        "font": "Police de la météo du jour",
+        "font-url": "URL de la police de la météo du jour",
+        "font-size": "Taille de la police de la météo du jour",
+        "modal-title": "Polices",
+        "font-variants": "Variations de police",
+        "bold": "Gras",
+        "italic": "Italique",
+        "color": "Couleur",
+        "text": "Exemple de texte de la météo du jour"
+    },
+    "layout-url": "URL de la disposition",
+    "address": {
+        "label": "Adresse",
+        "geolocation": "Géolocatisation",
+        "display": "Adresse affichée",
+        "custom": "Adresse personnalisée"
+    },
+    "custom-address": "Votre adresse personnalisée",
+    "address-font": {
+        "font": "Police",
+        "font-url": "URL de la police",
+        "font-size": "Taille de la police",
+        "modal-title": "Polices",
+        "font-variants": "Variantes de police",
+        "bold": "Gras",
+        "italic": "Italique",
+        "color": "Couleur",
+        "text": "Exemple de texte d'adresse"
+    },
+    "description": {
+        "label": "Description de l'adresse",
+        "none": "Aucune",
+        "service": "Depuis le service",
+        "custom": "Description personnalisée"
+    },
+    "custom-description": "Votre description personnalisée",
+    "show-humidity": "Montrer le vent et l'humidité",
+    "wind-speed": {
+        "label": "Vitesse du vent",
+        "kph": "km/h",
+        "mph": "mph"
+    },
+    "humidity-font": {
+        "font": "Police",
+        "font-url": "URL de la police",
+        "font-size": "Taille de la police",
+        "modal-title": "Polices",
+        "font-variants": "Variantes de police",
+        "bold": "Gras",
+        "italic": "Italique",
+        "color": "Couleur",
+        "text": "Exemple de texte vent et humidité"
+    },
+    "unit": {
+        "label": "Unité",
+        "celsius": "Celsius",
+        "fahrenheit": "Fahrenheit"
+    },
+    "background-color": {
+        "color": "Couleur de fond"
+    },
+    "terms": "Je comprends que ce widget est pour l'instant gratuit, mais qu'à une date ultérieure à déterminée il coûtera 2 $ par affichage par mois. J'aurai à ce moment-là 30 jours pour décider si je continue à utiliser ce Widget.",
+    "monday": "Lundi",
+    "tuesday": "Mardi",
+    "wednesday": "Mercredi",
+    "thursday": "Jeudi",
+    "friday": "Vendredi",
+    "saturday": "Samedi",
+    "sunday": "Dimanche",
+    "humidity": "Humidité",
+    "wind": "Vent",
+    "at": "à",
+    "mph": "mph",
+    "kph": "km/h",
+    "N": "N",
+    "S": "S",
+    "E": "E",
+    "W": "O",
+    "NE": "NE",
+    "NW": "NO",
+    "SE": "SE",
+    "SW": "SO"
+}

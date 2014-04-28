@@ -1,0 +1,299 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: node-gettext\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 1.6.4\n"
+
+msgid "settings"
+msgstr "Impostazioni Meteo"
+
+msgid "save"
+msgstr "Salva"
+
+msgid "cancel"
+msgstr "Annulla"
+
+msgid "help"
+msgstr "Aiuto"
+
+msgid "layout##label"
+msgstr "Disposizione"
+
+msgid "layout##custom"
+msgstr "Personale"
+
+msgid "layout##current"
+msgstr "Meteo corrente"
+
+msgid "layout##three-day"
+msgstr "Previsioni 3 giorni"
+
+msgid "layout##current-and-three-day"
+msgstr "Meteo corrente + Previsioni 3gg"
+
+msgid "current-temp-font##font"
+msgstr "Carattere Temperatura corrente"
+
+msgid "current-temp-font##font-url"
+msgstr "URL Carattere Temperatura corrente"
+
+msgid "current-temp-font##font-size"
+msgstr "Dimensione Carattere Temperatura corrente"
+
+msgid "current-temp-font##modal-title"
+msgstr "Carattere"
+
+msgid "current-temp-font##font-variants"
+msgstr "Varianti Carattere"
+
+msgid "current-temp-font##bold"
+msgstr "Grassetto "
+
+msgid "current-temp-font##italic"
+msgstr "Corsivo"
+
+msgid "current-temp-font##color"
+msgstr "Colore carattere temperatura"
+
+msgid "current-temp-font##text"
+msgstr "Testo di Esempio Temperatura "
+
+msgid "forecast-temp-font##font"
+msgstr "Carattere Previsioni"
+
+msgid "forecast-temp-font##font-url"
+msgstr "URL Carattere Previsioni"
+
+msgid "forecast-temp-font##font-size"
+msgstr "Dimensione Carattere Previsioni"
+
+msgid "forecast-temp-font##modal-title"
+msgstr "Carattere"
+
+msgid "forecast-temp-font##font-variants"
+msgstr "Varianti Carattere"
+
+msgid "forecast-temp-font##bold"
+msgstr "Grassetto"
+
+msgid "forecast-temp-font##italic"
+msgstr "Corsivo"
+
+msgid "forecast-temp-font##color"
+msgstr "Colore Carattere Tempreatura in Previsioni"
+
+msgid "forecast-temp-font##text"
+msgstr "Testo di Esempio Previsioni"
+
+msgid "forecast-day-font##font"
+msgstr "Carattere Giorno in Previsioni"
+
+msgid "forecast-day-font##font-url"
+msgstr "URL Carattere Giorno"
+
+msgid "forecast-day-font##font-size"
+msgstr "Dimensioni carattere Giorni"
+
+msgid "forecast-day-font##modal-title"
+msgstr "Carattere"
+
+msgid "forecast-day-font##font-variants"
+msgstr "Varianti Carattere"
+
+msgid "forecast-day-font##bold"
+msgstr "Grassetto"
+
+msgid "forecast-day-font##italic"
+msgstr "Corsivo"
+
+msgid "forecast-day-font##color"
+msgstr "Colore carattere Giorno"
+
+msgid "forecast-day-font##text"
+msgstr "Testo di Esempio per Giorno"
+
+msgid "layout-url"
+msgstr "URL Disposizione"
+
+msgid "address##label"
+msgstr "Indirizzo"
+
+msgid "address##geolocation"
+msgstr "Geolocalizzazione"
+
+msgid "address##display"
+msgstr "Indirizzo Display"
+
+msgid "address##custom"
+msgstr "Indirizzo personalizzato"
+
+msgid "custom-address"
+msgstr "Il tuo indirizzo personalizzato"
+
+msgid "address-font##font"
+msgstr "Carattere"
+
+msgid "address-font##font-url"
+msgstr "URL Carattere"
+
+msgid "address-font##font-size"
+msgstr "Dimensione Carattere"
+
+msgid "address-font##modal-title"
+msgstr "Carattere"
+
+msgid "address-font##font-variants"
+msgstr "Varianti Carattere"
+
+msgid "address-font##bold"
+msgstr "Grassetto"
+
+msgid "address-font##italic"
+msgstr "Corsivo"
+
+msgid "address-font##color"
+msgstr "Colore"
+
+msgid "address-font##text"
+msgstr "Testo di Esempio Indirizzo"
+
+msgid "description##label"
+msgstr "Descrizione Indirizzo"
+
+msgid "description##none"
+msgstr "Nessuna"
+
+msgid "description##service"
+msgstr "Dal servizio"
+
+msgid "description##custom"
+msgstr "Descrizione personalizzata"
+
+msgid "custom-description"
+msgstr "La vostra Descrizione"
+
+msgid "show-humidity"
+msgstr "Mostra Vento ed Umidità"
+
+msgid "wind-speed##label"
+msgstr "Velocità Vento"
+
+msgid "wind-speed##kph"
+msgstr "kph"
+
+msgid "wind-speed##mph"
+msgstr "mph"
+
+msgid "humidity-font##font"
+msgstr "Carattere"
+
+msgid "humidity-font##font-url"
+msgstr "URL Carattere"
+
+msgid "humidity-font##font-size"
+msgstr "Dimensioni Carattere"
+
+msgid "humidity-font##modal-title"
+msgstr "Carattere"
+
+msgid "humidity-font##font-variants"
+msgstr "Varianti Carattere"
+
+msgid "humidity-font##bold"
+msgstr "Grassetto"
+
+msgid "humidity-font##italic"
+msgstr "Corsivo"
+
+msgid "humidity-font##color"
+msgstr "Colore"
+
+msgid "humidity-font##text"
+msgstr "Testo di esempio per Umidità e Vento"
+
+msgid "unit##label"
+msgstr "Unità"
+
+msgid "unit##celsius"
+msgstr "Celsius"
+
+msgid "unit##fahrenheit"
+msgstr "Fahrenheit"
+
+msgid "background-color##color"
+msgstr "Colore Sfondo"
+
+msgid "terms"
+msgstr ""
+"Sono consapevole del fatto che attualmente non vi è alcun costo per "
+"utilizzare il Widget, ma in futuro, anche se tale data è ancora da definire, "
+"costerà 2,00 dollari al mese per ogni visualizzazione. Quando arriva il "
+"momento avrò 30 giorni per decidere se continuare a utilizzare questo Widget."
+
+msgid "monday"
+msgstr "Lunedì"
+
+msgid "tuesday"
+msgstr "Martedì"
+
+msgid "wednesday"
+msgstr "Mercoledì"
+
+msgid "thursday"
+msgstr "Giovedì"
+
+msgid "friday"
+msgstr "Venerdì"
+
+msgid "saturday"
+msgstr "Sabato"
+
+msgid "sunday"
+msgstr "Domenica"
+
+msgid "humidity"
+msgstr "Umidità"
+
+msgid "wind"
+msgstr "Vento"
+
+msgid "at"
+msgstr "a"
+
+msgid "mph"
+msgstr "mph"
+
+msgid "kph"
+msgstr "kph"
+
+msgid "N"
+msgstr "N"
+
+msgid "S"
+msgstr "S"
+
+msgid "E"
+msgstr "E"
+
+msgid "W"
+msgstr "O"
+
+msgid "NE"
+msgstr "NE"
+
+msgid "NW"
+msgstr "NO"
+
+msgid "SE"
+msgstr "SE"
+
+msgid "SW"
+msgstr "SO"

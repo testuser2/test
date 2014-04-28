@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: node-gettext\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "settings"
+msgstr "Paramètres météo"
+
+msgid "save"
+msgstr "Enregistrer"
+
+msgid "cancel"
+msgstr "Annuler"
+
+msgid "help"
+msgstr "Aide"
+
+msgid "layout##label"
+msgstr "Disposition"
+
+msgid "layout##custom"
+msgstr "Personnalisé"
+
+msgid "layout##current"
+msgstr "Météo actuelle"
+
+msgid "layout##three-day"
+msgstr "Prévision 3 jours"
+
+msgid "layout##current-and-three-day"
+msgstr "Météo actuelle et prévision 3 jours"
+
+msgid "current-temp-font##font"
+msgstr "Police de la température actuelle"
+
+msgid "current-temp-font##font-url"
+msgstr "URL de la police de la température actuelle"
+
+msgid "current-temp-font##font-size"
+msgstr "Taille de la police de la température actuelle"
+
+msgid "current-temp-font##modal-title"
+msgstr "Polices"
+
+msgid "current-temp-font##font-variants"
+msgstr "Variations de police"
+
+msgid "current-temp-font##bold"
+msgstr "Gras"
+
+msgid "current-temp-font##italic"
+msgstr "Italique"
+
+msgid "current-temp-font##color"
+msgstr "Couleur de la température actuelle"
+
+msgid "current-temp-font##text"
+msgstr "Exemple de texte de température actuelle"
+
+msgid "forecast-temp-font##font"
+msgstr "Police de la température prévue"
+
+msgid "forecast-temp-font##font-url"
+msgstr "URL de la police de la température prévue"
+
+msgid "forecast-temp-font##font-size"
+msgstr "Taille de la police de la température prévue"
+
+msgid "forecast-temp-font##modal-title"
+msgstr "Polices"
+
+msgid "forecast-temp-font##font-variants"
+msgstr "Variantes de police"
+
+msgid "forecast-temp-font##bold"
+msgstr "Gras"
+
+msgid "forecast-temp-font##italic"
+msgstr "Italique"
+
+msgid "forecast-temp-font##color"
+msgstr "Couleur"
+
+msgid "forecast-temp-font##text"
+msgstr "Exemple de texte de la température prévue"
+
+msgid "forecast-day-font##font"
+msgstr "Police de la météo du jour"
+
+msgid "forecast-day-font##font-url"
+msgstr "URL de la police de la météo du jour"
+
+msgid "forecast-day-font##font-size"
+msgstr "Taille de la police de la météo du jour"
+
+msgid "forecast-day-font##modal-title"
+msgstr "Polices"
+
+msgid "forecast-day-font##font-variants"
+msgstr "Variations de police"
+
+msgid "forecast-day-font##bold"
+msgstr "Gras"
+
+msgid "forecast-day-font##italic"
+msgstr "Italique"
+
+msgid "forecast-day-font##color"
+msgstr "Couleur"
+
+msgid "forecast-day-font##text"
+msgstr "Exemple de texte de la météo du jour"
+
+msgid "layout-url"
+msgstr "URL de la disposition"
+
+msgid "address##label"
+msgstr "Adresse"
+
+msgid "address##geolocation"
+msgstr "Géolocatisation"
+
+msgid "address##display"
+msgstr "Adresse affichée"
+
+msgid "address##custom"
+msgstr "Adresse personnalisée"
+
+msgid "custom-address"
+msgstr "Votre adresse personnalisée"
+
+msgid "address-font##font"
+msgstr "Police"
+
+msgid "address-font##font-url"
+msgstr "URL de la police"
+
+msgid "address-font##font-size"
+msgstr "Taille de la police"
+
+msgid "address-font##modal-title"
+msgstr "Polices"
+
+msgid "address-font##font-variants"
+msgstr "Variantes de police"
+
+msgid "address-font##bold"
+msgstr "Gras"
+
+msgid "address-font##italic"
+msgstr "Italique"
+
+msgid "address-font##color"
+msgstr "Couleur"
+
+msgid "address-font##text"
+msgstr "Exemple de texte d'adresse"
+
+msgid "description##label"
+msgstr "Description de l'adresse"
+
+msgid "description##none"
+msgstr "Aucune"
+
+msgid "description##service"
+msgstr "Depuis le service"
+
+msgid "description##custom"
+msgstr "Description personnalisée"
+
+msgid "custom-description"
+msgstr "Votre description personnalisée"
+
+msgid "show-humidity"
+msgstr "Montrer le vent et l'humidité"
+
+msgid "wind-speed##label"
+msgstr "Vitesse du vent"
+
+msgid "wind-speed##kph"
+msgstr "km/h"
+
+msgid "wind-speed##mph"
+msgstr "mph"
+
+msgid "humidity-font##font"
+msgstr "Police"
+
+msgid "humidity-font##font-url"
+msgstr "URL de la police"
+
+msgid "humidity-font##font-size"
+msgstr "Taille de la police"
+
+msgid "humidity-font##modal-title"
+msgstr "Polices"
+
+msgid "humidity-font##font-variants"
+msgstr "Variantes de police"
+
+msgid "humidity-font##bold"
+msgstr "Gras"
+
+msgid "humidity-font##italic"
+msgstr "Italique"
+
+msgid "humidity-font##color"
+msgstr "Couleur"
+
+msgid "humidity-font##text"
+msgstr "Exemple de texte vent et humidité"
+
+msgid "unit##label"
+msgstr "Unité"
+
+msgid "unit##celsius"
+msgstr "Celsius"
+
+msgid "unit##fahrenheit"
+msgstr "Fahrenheit"
+
+msgid "background-color##color"
+msgstr "Couleur de fond"
+
+msgid "terms"
+msgstr "Je comprends que ce widget est pour l'instant gratuit, mais qu'à une date ultérieure à déterminée il coûtera 2 $ par affichage par mois. J'aurai à ce moment-là 30 jours pour décider si je continue à utiliser ce Widget."
+
+msgid "monday"
+msgstr "Lundi"
+
+msgid "tuesday"
+msgstr "Mardi"
+
+msgid "wednesday"
+msgstr "Mercredi"
+
+msgid "thursday"
+msgstr "Jeudi"
+
+msgid "friday"
+msgstr "Vendredi"
+
+msgid "saturday"
+msgstr "Samedi"
+
+msgid "sunday"
+msgstr "Dimanche"
+
+msgid "humidity"
+msgstr "Humidité"
+
+msgid "wind"
+msgstr "Vent"
+
+msgid "at"
+msgstr "à"
+
+msgid "mph"
+msgstr "mph"
+
+msgid "kph"
+msgstr "km/h"
+
+msgid "N"
+msgstr "N"
+
+msgid "S"
+msgstr "S"
+
+msgid "E"
+msgstr "E"
+
+msgid "W"
+msgstr "O"
+
+msgid "NE"
+msgstr "NE"
+
+msgid "NW"
+msgstr "NO"
+
+msgid "SE"
+msgstr "SE"
+
+msgid "SW"
+msgstr "SO"
+

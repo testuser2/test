@@ -1,0 +1,118 @@
+{
+    "settings": "Væroppsett",
+    "save": "Lagre",
+    "cancel": "Avbryt",
+    "help": "Hjelp",
+    "layout": {
+        "label": "Layout",
+        "custom": "Tilpasset",
+        "current": "Været nå",
+        "three-day": "3 dagers varsel",
+        "current-and-three-day": "Været nå og 3 dagers varsel"
+    },
+    "current-temp-font": {
+        "font": "Temperatur font",
+        "font-url": "Temperatur Font URL",
+        "font-size": "Temperature Font Størrelse",
+        "modal-title": "Fonter",
+        "font-variants": "Font Varianter",
+        "bold": "Bold",
+        "italic": "Italic",
+        "color": "Temperature Farge",
+        "text": "Temperatur Test Tekst"
+    },
+    "forecast-temp-font": {
+        "font": "Varsel Temperatur Font",
+        "font-url": "Varsel Temperatur Font URL",
+        "font-size": "Varsel Temperatur Font Størrelse",
+        "modal-title": "Fonter",
+        "font-variants": "Font Varianter",
+        "bold": "Bold",
+        "italic": "Italic",
+        "color": "Varsel Temperatur Farge",
+        "text": "Varsel Temperature Test Tekst"
+    },
+    "forecast-day-font": {
+        "font": "Varsel Dag Font",
+        "font-url": "Varsel Dag Font URL",
+        "font-size": "Varsel Dag Font Størrelse",
+        "modal-title": "Fonter",
+        "font-variants": "Font Varianter",
+        "bold": "Bold",
+        "italic": "Italic",
+        "color": "Varsel Dag Farge",
+        "text": "Varsel Day test tekst"
+    },
+    "layout-url": "Layout URL",
+    "address": {
+        "label": "Adresse",
+        "geolocation": "Geolokasjon",
+        "display": "Display Adresse",
+        "custom": "Annen Adresse"
+    },
+    "custom-address": "Din Valgte Adresse",
+    "address-font": {
+        "font": "Font",
+        "font-url": "Font URL",
+        "font-size": "Font Størrelse",
+        "modal-title": "Fonter",
+        "font-variants": "Font Varianter",
+        "bold": "Bold",
+        "italic": "Italic",
+        "color": "Farge",
+        "text": "Adresse Test Tekst"
+    },
+    "description": {
+        "label": "Adresse Beskrivelse",
+        "none": "Ingen",
+        "service": "Fra Service",
+        "custom": "Egen Beskrivelse"
+    },
+    "custom-description": "Din Egen Beskrivelse",
+    "show-humidity": "Vis Luftfuktighet og Vind",
+    "wind-speed": {
+        "label": "Vindhastighet",
+        "kph": "kmt",
+        "mph": "mph"
+    },
+    "humidity-font": {
+        "font": "Font",
+        "font-url": "Font URL",
+        "font-size": "Font Størrelse",
+        "modal-title": "Fonter",
+        "font-variants": "Font Variasjoner",
+        "bold": "Bold",
+        "italic": "Italic",
+        "color": "Farge",
+        "text": "Luftfuktighet og Vind Test Tekst "
+    },
+    "unit": {
+        "label": "Enhet",
+        "celsius": "Celsius",
+        "fahrenheit": "Fahrenheit"
+    },
+    "background-color": {
+        "color": "Bakgrunnsfarge"
+    },
+    "terms": "Jeg erkjenner at denne widgeten nå er gratis å bruke, men på en dato som har ennå ikke bestemt, vil det koste ca $ 2 per Display i  måneden. Jeg vil da ha 30 dager på å bestemme om jeg ønsker å fortsette å bruke denne widgeten.",
+    "monday": "Mandag",
+    "tuesday": "Tirsdag",
+    "wednesday": "Onsdag",
+    "thursday": "Torsdag",
+    "friday": "Fredag",
+    "saturday": "Lørdag",
+    "sunday": "Søndag",
+    "humidity": "Luftfuktighet",
+    "wind": "Vind",
+    "at": "på",
+    "mph": "mph",
+    "kph": "kmt",
+    "N": "N",
+    "S": "S",
+    "E": "Ø",
+    "W": "V",
+    "NE": "NØ",
+    "NW": "NV",
+    "SE": "SØ",
+    "SW": "SV"
+}

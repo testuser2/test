@@ -1,0 +1,118 @@
+{
+    "settings": "Weer instellingen",
+    "save": "Opslaan",
+    "cancel": "Annuleren",
+    "help": "Help",
+    "layout": {
+        "label": "Layout",
+        "custom": "Aangepast",
+        "current": "Huidig weer",
+        "three-day": "3 daagse voorspelling",
+        "current-and-three-day": "Huidig weer en 3 daagse voorspelling"
+    },
+    "current-temp-font": {
+        "font": "huidige temperatuur font",
+        "font-url": "huidige temperatuur font URL",
+        "font-size": "huidige temperatuur font grootte",
+        "modal-title": "Fonts",
+        "font-variants": "Font Variaties",
+        "bold": "Bold",
+        "italic": "Italic",
+        "color": "Huidige temperatuur kleur",
+        "text": "Huidige temperatuur voorbeeld tekst"
+    },
+    "forecast-temp-font": {
+        "font": "Voorspelling temperatuur Font",
+        "font-url": "Voorspelling temperatuur Font URL",
+        "font-size": "Voorspelling temperatuur Font grootte",
+        "modal-title": "Fonts",
+        "font-variants": "Font Variaties",
+        "bold": "Bold",
+        "italic": "Italic",
+        "color": "Forecast Temperature ColorVoorspelling temperatuur kleur",
+        "text": "Voorspelling temperatuur voorbeeld tekst"
+    },
+    "forecast-day-font": {
+        "font": "Voorspelling dag Font",
+        "font-url": "Voorspelling dag Font URL",
+        "font-size": "Voorspelling dag Font grootte",
+        "modal-title": "Fonts",
+        "font-variants": "Font Variaties",
+        "bold": "Bold",
+        "italic": "Italic",
+        "color": "Voorspelling dag kleur",
+        "text": "Voorspelling dag voorbeeld tekst"
+    },
+    "layout-url": "Layout URL",
+    "address": {
+        "label": "Adres",
+        "geolocation": "Geografische locatie",
+        "display": "Display adres",
+        "custom": "Aangepast adres"
+    },
+    "custom-address": "Uw aangepast adres",
+    "address-font": {
+        "font": "Font",
+        "font-url": "Font URL",
+        "font-size": "Font grootte",
+        "modal-title": "Fonts",
+        "font-variants": "Font Variaties",
+        "bold": "Bold",
+        "italic": "Italic",
+        "color": "Color",
+        "text": "Adres voorbeeld tekst"
+    },
+    "description": {
+        "label": "Adres omschrijving",
+        "none": "Geen",
+        "service": "Van Service",
+        "custom": "Aangepaste omschrijving"
+    },
+    "custom-description": "Uw aangepaste omschrijving",
+    "show-humidity": "Toon vochtigheid en wind",
+    "wind-speed": {
+        "label": "Wind snelheid",
+        "kph": "kph",
+        "mph": "mph"
+    },
+    "humidity-font": {
+        "font": "Font",
+        "font-url": "Font URL",
+        "font-size": "Font grootte",
+        "modal-title": "Fonts",
+        "font-variants": "Font Variaties",
+        "bold": "Bold",
+        "italic": "Italic",
+        "color": "Kleur",
+        "text": "Vochtigheid en wind voorbeeld tekst"
+    },
+    "unit": {
+        "label": "Eenheid",
+        "celsius": "Celsius",
+        "fahrenheit": "Fahrenheit"
+    },
+    "background-color": {
+        "color": "Achtergrond kleur"
+    },
+    "terms": "Ik erken dat er momenteel geen kosten voor deze Widget, maar op een datum die nog moet worden bepaald, het kost $ 2 dollar per scherm, per maand. Op dat moment zal ik 30 dagen om te beslissen of ik wil blijven gebruiken deze Widget.",
+    "monday": "Maandag",
+    "tuesday": "Dinsdag",
+    "wednesday": "Woensdag",
+    "thursday": "Donderdag",
+    "friday": "Vrijdag",
+    "saturday": "Zaterdag",
+    "sunday": "Zondag",
+    "humidity": "Luchtvochtigheid",
+    "wind": "Wind",
+    "at": "om",
+    "mph": "mph",
+    "kph": "kph",
+    "N": "N",
+    "S": "Z",
+    "E": "O",
+    "W": "W",
+    "NE": "NO",
+    "NW": "NW",
+    "SE": "ZO",
+    "SW": "ZW"
+}

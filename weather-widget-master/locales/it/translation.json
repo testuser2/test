@@ -1,0 +1,118 @@
+{
+    "settings": "Impostazioni Meteo",
+    "save": "Salva",
+    "cancel": "Annulla",
+    "help": "Aiuto",
+    "layout": {
+        "label": "Disposizione",
+        "custom": "Personale",
+        "current": "Meteo corrente",
+        "three-day": "Previsioni 3 giorni",
+        "current-and-three-day": "Meteo corrente + Previsioni 3gg"
+    },
+    "current-temp-font": {
+        "font": "Carattere Temperatura corrente",
+        "font-url": "URL Carattere Temperatura corrente",
+        "font-size": "Dimensione Carattere Temperatura corrente",
+        "modal-title": "Carattere",
+        "font-variants": "Varianti Carattere",
+        "bold": "Grassetto ",
+        "italic": "Corsivo",
+        "color": "Colore carattere temperatura",
+        "text": "Testo di Esempio Temperatura "
+    },
+    "forecast-temp-font": {
+        "font": "Carattere Previsioni",
+        "font-url": "URL Carattere Previsioni",
+        "font-size": "Dimensione Carattere Previsioni",
+        "modal-title": "Carattere",
+        "font-variants": "Varianti Carattere",
+        "bold": "Grassetto",
+        "italic": "Corsivo",
+        "color": "Colore Carattere Tempreatura in Previsioni",
+        "text": "Testo di Esempio Previsioni"
+    },
+    "forecast-day-font": {
+        "font": "Carattere Giorno in Previsioni",
+        "font-url": "URL Carattere Giorno",
+        "font-size": "Dimensioni carattere Giorni",
+        "modal-title": "Carattere",
+        "font-variants": "Varianti Carattere",
+        "bold": "Grassetto",
+        "italic": "Corsivo",
+        "color": "Colore carattere Giorno",
+        "text": "Testo di Esempio per Giorno"
+    },
+    "layout-url": "URL Disposizione",
+    "address": {
+        "label": "Indirizzo",
+        "geolocation": "Geolocalizzazione",
+        "display": "Indirizzo Display",
+        "custom": "Indirizzo personalizzato"
+    },
+    "custom-address": "Il tuo indirizzo personalizzato",
+    "address-font": {
+        "font": "Carattere",
+        "font-url": "URL Carattere",
+        "font-size": "Dimensione Carattere",
+        "modal-title": "Carattere",
+        "font-variants": "Varianti Carattere",
+        "bold": "Grassetto",
+        "italic": "Corsivo",
+        "color": "Colore",
+        "text": "Testo di Esempio Indirizzo"
+    },
+    "description": {
+        "label": "Descrizione Indirizzo",
+        "none": "Nessuna",
+        "service": "Dal servizio",
+        "custom": "Descrizione personalizzata"
+    },
+    "custom-description": "La vostra Descrizione",
+    "show-humidity": "Mostra Vento ed Umidità",
+    "wind-speed": {
+        "label": "Velocità Vento",
+        "kph": "kph",
+        "mph": "mph"
+    },
+    "humidity-font": {
+        "font": "Carattere",
+        "font-url": "URL Carattere",
+        "font-size": "Dimensioni Carattere",
+        "modal-title": "Carattere",
+        "font-variants": "Varianti Carattere",
+        "bold": "Grassetto",
+        "italic": "Corsivo",
+        "color": "Colore",
+        "text": "Testo di esempio per Umidità e Vento"
+    },
+    "unit": {
+        "label": "Unità",
+        "celsius": "Celsius",
+        "fahrenheit": "Fahrenheit"
+    },
+    "background-color": {
+        "color": "Colore Sfondo"
+    },
+    "terms": "Sono consapevole del fatto che attualmente non vi è alcun costo per utilizzare il Widget, ma in futuro, anche se tale data è ancora da definire, costerà 2,00 dollari al mese per ogni visualizzazione. Quando arriva il momento avrò 30 giorni per decidere se continuare a utilizzare questo Widget.",
+    "monday": "Lunedì",
+    "tuesday": "Martedì",
+    "wednesday": "Mercoledì",
+    "thursday": "Giovedì",
+    "friday": "Venerdì",
+    "saturday": "Sabato",
+    "sunday": "Domenica",
+    "humidity": "Umidità",
+    "wind": "Vento",
+    "at": "a",
+    "mph": "mph",
+    "kph": "kph",
+    "N": "N",
+    "S": "S",
+    "E": "E",
+    "W": "O",
+    "NE": "NE",
+    "NW": "NO",
+    "SE": "SE",
+    "SW": "SO"
+}
